@@ -1,0 +1,8 @@
+newmtl material1
+Ka 0.100000 0.100000 0.100000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 20.000000
+Tr 0.900000
+illum 0
+map_Kd C:\Softimage\Softimage_Mod_Tool_7.5\Addons\ModTool_Database\Render_Pictures\RenderMap.jpg
